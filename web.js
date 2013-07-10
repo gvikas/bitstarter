@@ -1,4 +1,4 @@
-express var = require('express');
+var express = require('express');
 var fs = require('fs');
 
 var rf = fs.readFileSync('index.html');
